@@ -1,0 +1,14 @@
+Min or Max:
+-1
+
+C table:
+[-2,3,5]
+
+A table:
+[[0,0,0,0],[-3,1,2,0],[4,-2,-1,0]]
+
+Inequalities operators (eqin table):
+[0,1,-1]
+
+B table:
+[0,2,3,0]
